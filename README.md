@@ -2,16 +2,17 @@
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Simple Keylogger using Python](https://github.com/joshmadakor1/Key-Logger-With-Email)
-
+  - [Simple Keylogger using Python](https://sites.google.com/view/kyleecoxcv/projects/coding-projects/simple-keylogger-in-python?authuser=0)
+    
 <h2>👨‍💻 Certifications</h2>
 
-  - [CompTIA Security+](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [CompTIA Security+] (https://sites.google.com/view/kyleecoxcv/certifications?authuser=0)
+  - [Google Cybersecurity Professional Certificate] (https://sites.google.com/view/kyleecoxcv/certifications?authuser=0)
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="kyleecox | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="smileykylee20 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/smileykylee20/
