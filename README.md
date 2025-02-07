@@ -2,7 +2,7 @@
 
   <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Simple Keylogger using Python](https://sites.google.com/view/kyleecoxcv/projects/coding-projects/simple-keylogger-in-python?authuser=0)
+  - [Simple Keylogger using Python] (https://github.com/Leelander2k18/SimplePythonKeylogger)
     
 <h2>👨‍💻 Certifications</h2>
 
