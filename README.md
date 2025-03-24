@@ -6,8 +6,12 @@
     
 <h2>👨‍💻 Certifications</h2>
 
-  - [CompTIA Security+] (https://sites.google.com/view/kyleecoxcv/certifications?authuser=0)
+  - [CompTIA Security+] (https://www.credly.com/badges/7508640e-7a12-4260-864e-7b2644ddc1ef)
+  - [CompTIA Network+] (https://www.credly.com/badges/00574a29-9b09-4a49-8a63-41e53c966022)
+  - [CompTIA A+] (https://www.credly.com/badges/84aa34c5-1316-49a1-807b-69ea17ced4d6)
   - [Google Cybersecurity Professional Certificate] (https://sites.google.com/view/kyleecoxcv/certifications?authuser=0)
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
