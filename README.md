@@ -6,6 +6,7 @@
     
 <h2>👨‍💻 Certifications</h2>
 
+  - [CompTIA CASP+] ([https://www.credly.com/earner/earned/badge/ebdac9d9-835c-4657-b7f4-6dc23878ca88](https://www.credly.com/badges/e18f037a-fbbb-47b5-b5fe-f3be227a9f16/public_url)
   - [CompTIA CySA+] (https://www.credly.com/earner/earned/badge/ebdac9d9-835c-4657-b7f4-6dc23878ca88)
   - [CompTIA Security+] (https://www.credly.com/badges/7508640e-7a12-4260-864e-7b2644ddc1ef)
   - [CompTIA Network+] (https://www.credly.com/badges/00574a29-9b09-4a49-8a63-41e53c966022)
