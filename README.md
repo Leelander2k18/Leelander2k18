@@ -6,6 +6,7 @@
     
 <h2>👨‍💻 Certifications</h2>
 
+  - [AWS Cloud Practitioner] ([https://www.credly.com/earner/earned/badge/ebdac9d9-835c-4657-b7f4-6dc23878ca88](https://www.credly.com/badges/b001cc7e-4c0c-48be-b569-ab4ae2d1fd4a/public_url)
   - [CompTIA CASP+] ([https://www.credly.com/earner/earned/badge/ebdac9d9-835c-4657-b7f4-6dc23878ca88](https://www.credly.com/badges/e18f037a-fbbb-47b5-b5fe-f3be227a9f16/public_url)
   - [CompTIA CySA+] (https://www.credly.com/earner/earned/badge/ebdac9d9-835c-4657-b7f4-6dc23878ca88)
   - [CompTIA Security+] (https://www.credly.com/badges/7508640e-7a12-4260-864e-7b2644ddc1ef)
